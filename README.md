@@ -139,6 +139,3 @@ prisma/
 ├── migrations/ # Migrações do banco de dados
 ├── schema.prisma # Esquema Prisma
 └── seed.ts # Script de povoamento
-## License
-
-MIT
