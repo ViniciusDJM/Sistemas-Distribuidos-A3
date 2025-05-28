@@ -12,7 +12,7 @@
 ### Clonar o repositório
 
 ```bash
-git clone https://github.com/yourusername/rest-api.git
+git clone https://github.com/ViniciusDJM/Sistemas-Distribuidos-A3.git
 cd rest-api
 ```
 
