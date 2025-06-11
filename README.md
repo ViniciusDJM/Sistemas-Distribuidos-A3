@@ -127,21 +127,3 @@ npm test
 # Todo todos os testes com cobertura
 npm run test:coverage
 ```
-
-## Estrutura do projeto
-src/
-├── @types/ # Arquivos de declaração TypeScript
-├── config/ # Arquivos de configuração
-├── controllers/ # Camada de controladores
-├── middlewares/ # Funções middleware
-├── repositories/ # Camada de acesso a dados
-├── routes/ # Definições de rotas
-├── services/ # Camada de lógica de negócio
-├── utils/ # Funções utilitárias
-├── app.ts # Configuração da aplicação Express
-└── server.ts # Ponto de entrada do servidor
-
-prisma/
-├── migrations/ # Migrações do banco de dados
-├── schema.prisma # Esquema Prisma
-└── seed.ts # Script de povoamento
