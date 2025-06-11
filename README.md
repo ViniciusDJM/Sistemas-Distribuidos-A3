@@ -18,7 +18,13 @@ cd rest-api
 
 ### Usando Docker (recomendado)
 
-Inicie a aplicação e o banco de dados PostgreSQL:
+1. Instale as dependências:
+
+```bash
+npm install
+```
+
+2. Inicie a aplicação e o banco de dados PostgreSQL:
 
 ```bash
 docker-compose up -d
